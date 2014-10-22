@@ -98,7 +98,7 @@ public class Cal extends JPanel implements ActionListener
 		}
 		catch(Exception e) {
 			t.setText("");
-			t2.setText("");
+			t2.setText("ww.ere");
 			
 		}
 
